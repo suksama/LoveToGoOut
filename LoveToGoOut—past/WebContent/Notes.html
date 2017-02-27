@@ -1,0 +1,140 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>无标题文档</title>
+
+<style type="text/css">
+	*{margin:0px;padding:0px;}
+	body{font:"微软雅黑";font-size:14px;}
+	a{text-decoration:none;}
+	ul,li{list-style:none;}
+	#box{height:auto;width:800px;border:1px solid #aaa;margin:0 auto;overflow:hidden;}
+	.top{height:40px;}
+	.top a{height:16px; width:16px;display:block;float:right;margin:5px;}
+	.btn-list-off{background-image:#fff url(images/btns.jpg) no-repeat -38px 0px;}
+	.btn-car-on{background:#fff url(images/btns.jpg) no-repeat -21px -34px;}
+	.btn-list-on{background-image:#fff url(images/btns.jpg) no-repeat -21px 0px;}
+	.btn-car-off{background:#fff url(images/btns.jpg) no-repeat -38px -32px;}
+	
+	#box ul li{height:auto;width:383px;border:1px solid #aaa;float:left;margin:7px;} 
+	.a-img{height:164px;width:383px;display:block;overflow:hidden;}
+	p a,p span{
+		display:block;
+		line-height:23px;
+		padding-left:10px;
+	}
+	.bottom{height:40px;line-height:40px;text-align:center;background-color:#ccc;}
+	.small{height:50px;width:50px;float:left;margin:5px;}
+</style>
+<script type="text/javascript">
+	window.onload =function(){
+		var listBtn = document.getElementById("btn1");
+		var carBtn = document.getElementById("btn2");
+		var imgs = document.getElementsByTagName("img");
+		
+		listBtn.onclick = function(){
+			listBtn.className  = "btn-list-on";
+			carBtn.className = "btn-car-off";
+			for(var i=0;i<imgs.length;i++)
+			{
+				imgs[i].src = "./images/small.jpg";			
+				imgs[i].parentNode.className = "a-img small";
+				}
+		}
+		carBtn.onclick = function(){
+			listBtn.className  = "btn-list-off";
+			carBtn.className = "btn-car-on";
+			for(var i=0;i<imgs.length;i++)
+			{
+				imgs[i].src = "./images/big.jpg";
+				imgs[i].parentNode.className = "a-img";
+			}
+		}
+		
+		
+		 
+	}
+
+</script>
+</head>
+
+<body>
+
+<div id="box">
+
+	<div class="top">
+	 
+		<a href="#" title="列表模式" id="btn1" class="btn-list-off"></a>
+		<a href="#" title="卡片模式" id="btn2" class="btn-car-on"></a>
+	</div>
+	<ul>
+		<li>
+			<div class="con">
+			<a href="#" class="a-img ">
+				<img src="images/big1.jpg" />
+			</a>
+			<div>
+				<a href="#" id="name">白阳</a>
+				<span id="address">辽宁</span><br><br>
+				<span>2014年10月2日 / 12天 / 120图</span>
+			 </div> 
+			 </div><br>
+			 <div class="bottom">
+			 	<a href="#">更改</a>
+			 	<a href="#">删除</a>
+			 </div>
+		</li>
+		 
+		 <li>
+			<div class="con">
+			<a href="#" class="a-img">
+				<img src="images/background1.jpg"/>
+			</a>
+			<div>
+				<a href="#" id="name">白阳</a>
+				<span id="address">辽宁</span><br><br>
+				<span>2014年10月2日 / 12天 / 120图</span>
+			 </div> 
+			 </div><br>
+			 <div class="bottom">
+			 	<a href="#">更改</a>
+			 	<a href="#">删除</a>
+			 </div>
+		</li><li>
+			<div class="con">
+			<a href="#" class="a-img">
+				<img src="images/background2.jpg"/>
+			</a>
+			<div>
+				<a href="#" id="name">白阳</a>
+				<span id="address">辽宁</span><br><br>
+				<span>2014年10月2日 / 12天 / 120图</span>
+			 </div>  
+			 </div><br>
+			 <div class="bottom">
+			 	<a href="#">更改</a>
+			 	<a href="#">删除</a>
+			 </div>
+		</li>
+		<li>
+			<div class="con">
+			<a href="#" class="a-img">
+				<img src="images/big1.jpg"/>
+			</a>
+			<div>
+				<a href="#" id="name">白阳</a>
+				<span id="address">辽宁</span><br><br>
+				<span>2014年10月2日 / 12天 / 120图</span>
+			 </div>  
+			 </div><br>
+			 <div class="bottom">
+			 	<a href="#">更改</a>
+			 	<a href="#">删除</a>
+			 </div>
+		</li>
+	</ul>
+</div>
+</body>
+</html>
+

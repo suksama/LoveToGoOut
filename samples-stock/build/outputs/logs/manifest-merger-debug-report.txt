@@ -1,0 +1,179 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:1:1-80:12
+	package
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:2:5-53
+	android:versionName
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:4:5-32
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:3:5-30
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:1:11-69
+uses-sdk
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:6:5-8:37
+MERGED from [LoveToGoOut:library:unspecified] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\LoveToGoOut\library\unspecified\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:7:9-38
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:8:9-35
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+		INJECTED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:10:22-64
+application
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:12:5-78:19
+MERGED from [LoveToGoOut:library:unspecified] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\LoveToGoOut\library\unspecified\AndroidManifest.xml:12:5-47
+MERGED from [com.android.support:appcompat-v7:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:15:9-41
+	tools:ignore
+		ADDED from [LoveToGoOut:library:unspecified] E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\build\intermediates\exploded-aar\LoveToGoOut\library\unspecified\AndroidManifest.xml:12:18-44
+	android:allowBackup
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:13:9-35
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:14:9-45
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:16:9-40
+activity#com.manuelpeinado.fadingactionbar.demo.HomeActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:17:9-26:20
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:20:13-45
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:19:13-49
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:18:13-79
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:24:27-74
+activity#com.manuelpeinado.fadingactionbar.demo.ScrollViewActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:27:9-31:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:30:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:29:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:31:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:28:13-85
+activity#com.manuelpeinado.fadingactionbar.demo.ListViewActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:32:9-36:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:35:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:34:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:36:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:33:13-83
+activity#com.manuelpeinado.fadingactionbar.demo.LightBackgroundActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:37:9-41:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:40:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:39:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:41:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:38:13-90
+activity#com.manuelpeinado.fadingactionbar.demo.LightActionBarActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:42:9-46:74
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:45:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:44:13-58
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:46:13-71
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:43:13-89
+activity#com.manuelpeinado.fadingactionbar.demo.SampleFragmentActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:47:9-51:74
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:50:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:49:13-58
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:51:13-71
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:48:13-89
+activity#com.manuelpeinado.fadingactionbar.demo.NoParallaxActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:52:9-56:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:55:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:54:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:56:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:53:13-85
+activity#com.manuelpeinado.fadingactionbar.demo.NavigationDrawerActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:57:9-61:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:60:13-48
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:59:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:61:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:58:13-91
+activity#com.manuelpeinado.fadingactionbar.demo.HeaderOverlayActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:62:9-66:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:65:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:64:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:63:13-88
+activity#com.manuelpeinado.fadingactionbar.demo.WebViewActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:67:9-72:68
+	android:screenOrientation
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:71:13-49
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:70:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:69:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:72:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:68:13-82
+activity#com.manuelpeinado.fadingactionbar.demo.ShortContentActivity
+ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:73:9-77:68
+	android:label
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:76:13-50
+	android:icon
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:75:13-53
+	android:theme
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:77:13-65
+	android:name
+		ADDED from E:\Workspace\AndroidStudio\LoveToGoOut\samples-stock\AndroidManifest.xml:74:13-87
