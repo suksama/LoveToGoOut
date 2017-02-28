@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id = "@+id/tab_note"
+        icon = "@drawable/tab_note"
+        title = "游记"
+        barColorWhenSelected = "@color/color1"
+        />
+    <tab
+        id = "@+id/tab_plan"
+        icon = "@drawable/tab_plan"
+        title = "行程"
+        barColorWhenSelected = "@color/color2"
+        />
+    <tab
+        id = "@+id/tab_shoot"
+        icon = "@drawable/tab_shoot"
+        title = "拍摄"
+        barColorWhenSelected = "@color/color3"
+        />
+    <tab
+        id = "@+id/tab_strategy"
+        icon = "@drawable/tab_strategy"
+        title = "攻略"
+        barColorWhenSelected = "@color/color4"
+        />
+    <tab
+        id = "@+id/tab_my"
+        icon = "@drawable/tab_my"
+        title = "我的"
+        barColorWhenSelected = "@color/color5"
+        />
+
+</tabs>

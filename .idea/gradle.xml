@@ -12,7 +12,6 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/mvpapp" />
-            <option value="$PROJECT_DIR$/samples-stock" />
           </set>
         </option>
       </GradleProjectSettings>
